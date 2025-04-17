@@ -1,10 +1,16 @@
 import React from 'react'
-import Navbars from './componts/Navbars';
-import HeroSection from './componts/HeroSection'
-import Footer from './componts/Footer';
-import Card  from './componts/Card';
-import Card2 from './componts/Card2'
-import Section from './componts/Section';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css'; 
+import Navbars from './componts/screens/Navbars';
+import HeroSection from './componts/screens/HeroSection'
+import Footer from './componts/screens/Footer';
+import Section1 from './componts/screens/Section1';
+import Section2 from './componts/screens/Section2';
+import Section3 from './componts/screens/Section3';
+import Testimonial from './componts/screens/Testimonial';
+import PricingPlans from './componts/screens/PricingPlans';
+import FaqSection from './componts/screens/FaqSection'
+import SignUp from './componts/screens/SignUp';
 
 
 const App = () => {
@@ -13,10 +19,14 @@ const App = () => {
    
       <Navbars/>
       <HeroSection/>
-      <Card/>
-      <Card2/>
-      <Section/>
+      <Section1/>
+      <Section2/>
+      <Section3/>
+      <PricingPlans/>
+      <Testimonial/>
+      <FaqSection/>
       <Footer/>
+      <SignUp />
    
     
     </>
