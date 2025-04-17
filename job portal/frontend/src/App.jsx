@@ -4,6 +4,7 @@ import HeroSection from './componts/HeroSection'
 import Footer from './componts/Footer';
 import Card  from './componts/Card';
 import Card2 from './componts/Card2'
+import Section from './componts/Section';
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
       <HeroSection/>
       <Card/>
       <Card2/>
+      <Section/>
       <Footer/>
    
     

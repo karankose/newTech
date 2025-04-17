@@ -1,6 +1,6 @@
 import React from 'react'
-import pic2 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/pic2.png'
-import pic1 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/pic1.png'
+
+import HeroImg from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Group 39523.png'
 const HeroSection = () => {
   return (
     <>
@@ -19,8 +19,8 @@ const HeroSection = () => {
             </div>
     </div>
     <div className='d-flex'>
-    <div>  <img src={pic1}  style={{height:'250px'  }} alt="" />
-            <img src={pic2} style={{height:'250px'}} alt="" />
+    <div>  <img src={HeroImg}  style={{height:'250px'  }} alt="" />
+            
             </div>
     </div>
 

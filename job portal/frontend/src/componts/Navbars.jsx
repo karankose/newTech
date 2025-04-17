@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Logo j 1.png'
+import img1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Logo j 1.png'
 
 const Navbars = () => {
   return (

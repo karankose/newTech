@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/image 7.png'
+import logo from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/image 7.png'
 
 const Footer = () => {
     return (

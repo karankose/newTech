@@ -1,8 +1,8 @@
 import React from 'react'
-import icon8 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon8.png'
-import icon4 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon4.png'
-import icon5 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon 5.png'
-import icon6 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon 6.png'
+import icon8 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon8.png'
+import icon4 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon4.png'
+import icon5 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon 5.png'
+import icon6 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon 6.png'
 
  const Card2 = () => {
   return (

@@ -1,8 +1,7 @@
 import React from 'react'
-import icon from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon.png'
-import icon1 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon (1).png'
-import icon2 from '/home/ntf-409/karan/job portal/frontend/src/componts/Img/Icon (2).png'
-
+import icon from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon.png'
+import icon1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon (1).png'
+import icon2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/componts/Img/Icon (2).png'
  const Card = () => {
   return (
   <div  className='d-flex' style={{background:'#46B6EEDB',paddingBottom:'50px' , paddingTop:'50px', justifyContent:'center', alignItems:'center'}}>
