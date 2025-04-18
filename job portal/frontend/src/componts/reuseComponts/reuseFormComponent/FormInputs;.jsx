@@ -16,7 +16,7 @@ const FormInputs = ({
   return (
     <div className={`mb-3 ${wrapperClassName}`}>
       {label && (
-        <label htmlFor={name} className={`form-label fw-bold ${labelClassName}`}>
+        <label htmlFor={name} className={`form-label  ${labelClassName}`}>
           {label}
         </label>
       )}

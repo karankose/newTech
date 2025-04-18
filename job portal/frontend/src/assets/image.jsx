@@ -3,8 +3,8 @@ import Logo1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/im
 import Person1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person1.png'
 import Person2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person2.png'
 import Person3 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person3.png'
-import Frame from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Frame.png'
-import Frame2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Frame2.png'
+import HeroSectionImage from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/HeroSectionImage.png'
+import GroupImage from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/GroupImage.png'
 import Icon1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Icon1.png'
 import Icon2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Icon2.png'
 import Icon3 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Icon3.png'
@@ -23,6 +23,6 @@ import Icon12 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/i
 export const Images = {
     Logo2,Logo1,
     Person1,Person2,Person3,
-    Frame,Frame2,
+    HeroSectionImage,GroupImage,
     Icon1,Icon2,Icon3,Icon4,Icon5,Icon6,Icon8,Icon10,Icon11,Icon12
 }

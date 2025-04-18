@@ -58,7 +58,7 @@ const HeroSection = () => {
 
   
           <div className="col-md-6 position-relative text-center mt-5 mt-md-0">
-            <img src={Images.Frame2} alt="Hero" className="img-fluid" />
+            <img src={Images.HeroSectionImage} alt="Hero" className="img-fluid" />
 
            
           </div>

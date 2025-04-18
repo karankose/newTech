@@ -11,6 +11,7 @@ import Testimonial from './componts/screens/Testimonial';
 import PricingPlans from './componts/screens/PricingPlans';
 import FaqSection from './componts/screens/FaqSection'
 import SignUp from './componts/screens/SignUp';
+import Login from './componts/screens/Login';
 
 
 const App = () => {
@@ -26,7 +27,8 @@ const App = () => {
       <Testimonial/>
       <FaqSection/>
       <Footer/>
-      <SignUp />
+      {/* <SignUp /> */}
+      <Login/>
    
     
     </>
