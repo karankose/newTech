@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Images } from '../../assets/image';
 const Footer = () => {
   return (
     <footer className="text-white">
@@ -32,13 +32,13 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* Footer Main */}
+     
       <div className="py-4" style={{ backgroundColor: '#034EA2' }}>
         <div className="container">
           <div className="row align-items-center text-center text-md-start">
             <div className="col-md-3 mb-3 mb-md-0 d-flex align-items-center justify-content-center justify-content-md-start">
               <img
-                src='/public/images/Logo1.png'
+                src={Images.Logo1}
                 alt="Job Portal"
                
                 className="me-2"

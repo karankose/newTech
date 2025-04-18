@@ -109,14 +109,14 @@ const SignUp = () => {
             <form action="">
               <div className='row justify-content-center'>
                 <FormInputs
-                  wrapperClassName='col-md-6 col-lg-3'
+                  wrapperClassName='col-md-6 '
                   label={'First Name'}
                   name={'firstName'}
                   placeholder='Enter First Name'
                   required={true}
                 />
                 <FormInputs
-                  wrapperClassName='col-md-6 col-lg-3'
+                  wrapperClassName='col-md-6'
                   label={'Last Name'}
                   name={'lastName'}
                   placeholder='Enter Last Name'

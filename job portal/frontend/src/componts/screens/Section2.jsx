@@ -1,4 +1,5 @@
 import React from 'react';
+import { Images } from '../../assets/image';
 
 const Section2 = () => {
   return (

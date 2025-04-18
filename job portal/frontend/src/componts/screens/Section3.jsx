@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Images } from '../../assets/image';
 
  const Section3 = () => {
   return (
@@ -11,7 +11,8 @@ import React from 'react'
     
     
     <div className="col-12 col-md-6 text-center mb-4 mb-md-0">
-      <img src='/public/images/Frame 5212.png' className="img-fluid" alt="" />
+      <img src={Images.Frame
+      } className="img-fluid" alt="" />
     </div>
 
     
@@ -28,7 +29,7 @@ import React from 'react'
 
      
       <div className="d-flex mb-4 align-items-start">
-        <img src='/public/icons/Icon10.png' className="me-3" alt="Icon 1" style={{ width: "40px", height: "40px" }} />
+        <img src={Images.Icon10} className="me-3" alt="Icon 1" style={{ width: "40px", height: "40px" }} />
         <div>
           <h5>Job Seekers in the UK:</h5>
           <p>
@@ -40,7 +41,7 @@ import React from 'react'
 
       
       <div className="d-flex mb-4 align-items-start">
-        <img src='/public/icons/Icon11.png' className="me-3" alt="Icon 2" style={{ width: "40px", height: "40px" }} />
+        <img src={Images.Icon11} className="me-3" alt="Icon 2" style={{ width: "40px", height: "40px" }} />
         <div>
           <h5>International Graduates:</h5>
           <p>
@@ -52,7 +53,7 @@ import React from 'react'
 
       
       <div className="d-flex align-items-start">
-        <img src='/public/icons/Icon12.png' className="me-3" alt="Icon 3" style={{ width: "40px", height: "40px" }} />
+        <img src={Images.Icon12} className="me-3" alt="Icon 3" style={{ width: "40px", height: "40px" }} />
         <div>
           <h5>Skilled Professionals:</h5>
           <p>

@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Images } from '../../assets/image'; 
 const Navbars = () => {
   return (
     <>
@@ -8,7 +8,7 @@ const Navbars = () => {
           
          
           <a className="navbar-brand d-flex align-items-center" href="#">
-            <img src="/public/images/Logo2.png" alt="Job Portal Logo" className="img-fluid" style={{ height: '50px' }} />
+            <img src={Images.Logo2} alt="Job Portal Logo" className="img-fluid" style={{ height: '50px' }} />
           </a>
 
           
