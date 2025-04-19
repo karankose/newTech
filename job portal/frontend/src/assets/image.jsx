@@ -1,5 +1,9 @@
 import Logo2 from "/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Logo2.png"
 import Logo1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Logo1.png'
+import LogoApple from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/LogoApple.png'
+import LogoFb from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/LogoFb.png'
+import LogoGoogle from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/LogoGoogle.png'
+
 import Person1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person1.png'
 import Person2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person2.png'
 import Person3 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Person3.png'
@@ -18,11 +22,17 @@ import Icon10 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/i
 import Icon11 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Icon11.png'
 import Icon12 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/Icon12.png'
 
+import FromBackground from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/FromBackground.png'
+
+import About1 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/About1.png'
+
+import About2 from '/home/ntf-409/karan/newTech/job portal/frontend/src/assets/image/About2.png'
 
 
 export const Images = {
-    Logo2,Logo1,
-    Person1,Person2,Person3,
-    HeroSectionImage,GroupImage,
-    Icon1,Icon2,Icon3,Icon4,Icon5,Icon6,Icon8,Icon10,Icon11,Icon12
+    Logo2, Logo1, LogoApple,LogoFb,LogoGoogle,
+    Person1, Person2, Person3,
+    HeroSectionImage, GroupImage,About1,About2,
+    Icon1, Icon2, Icon3, Icon4, Icon5, Icon6, Icon8, Icon10, Icon11, Icon12,
+    FromBackground
 }

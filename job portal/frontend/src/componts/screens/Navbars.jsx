@@ -1,5 +1,8 @@
 import React from 'react'
 import { Images } from '../../assets/image'; 
+import { Link } from 'react-router-dom';
+import routers from '../../Routers';
+
 const Navbars = () => {
   return (
     <>
@@ -42,8 +45,8 @@ const Navbars = () => {
 
            
             <form className="d-flex">
-              <button className="btn btn-outline-primary me-2" type="button">Sign Up</button>
-              <button className="btn btn-primary" type="button">Login</button>
+              <Link to={routers.signupRouter} className="btn btn-outline-primary me-2" type="button">Sign Up</Link>
+              <Link to={routers.loginRouter} className="btn btn-primary" type="button">Login</Link>
             </form>
 
           </div>
